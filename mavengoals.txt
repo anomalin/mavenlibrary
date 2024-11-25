@@ -1,0 +1,21 @@
+Maven goals jag använt
+
+mvn clean - om du har kompilerat sedan tidigare och det finns en taget-mapp med klass-filer så
+rensar clean-kommandot existerande klass-filer och du kan börja om på nytt med en lifecycle.
+
+mvn validate - kollar så att allt som behöver finnas för att fortsätta med projektet finns.
+
+mvn compile - kompilerar java-filerna från mappen src/main/java och skapar en
+target-mapp med en undermapp classes där klass-filerna ligger.
+
+mvn test - kompilerar och kör dina testklasser, skapar en testclasses-mapp under target och
+skickar rapporter genom surefire-plugin till targetmappen under surefire-reports.
+
+mvn package - skapar en jar-fil som läggs i target-mappen.
+
+mvn javadoc - skapar javadoc-dokumentation om projektet. Hamnar i en undermapp under target.
+
+
+Utöver detta kan jag lägga till att om man t.ex. kör mvn package kör den med tidigare goals
+(om man inte redan kört dessa) så man kan köra mvn clean och sedan mvn package för att den
+ska kompilera, köra alla tester och skapa jar-filen direkt.

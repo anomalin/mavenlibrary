@@ -1,0 +1,11 @@
+/Users/malinsundberg/Utvecklingsverktyg/Inlämningsuppgift2/library/src/main/java/models/Book.java
+/Users/malinsundberg/Utvecklingsverktyg/Inlämningsuppgift2/library/src/main/java/models/BookCatalog.java
+/Users/malinsundberg/Utvecklingsverktyg/Inlämningsuppgift2/library/src/main/java/models/BookNotFoundException.java
+/Users/malinsundberg/Utvecklingsverktyg/Inlämningsuppgift2/library/src/main/java/models/Customer.java
+/Users/malinsundberg/Utvecklingsverktyg/Inlämningsuppgift2/library/src/main/java/models/Loan.java
+/Users/malinsundberg/Utvecklingsverktyg/Inlämningsuppgift2/library/src/main/java/models/LoanAlreadyExistsException.java
+/Users/malinsundberg/Utvecklingsverktyg/Inlämningsuppgift2/library/src/main/java/models/LoanNotFoundException.java
+/Users/malinsundberg/Utvecklingsverktyg/Inlämningsuppgift2/library/src/main/java/models/Material.java
+/Users/malinsundberg/Utvecklingsverktyg/Inlämningsuppgift2/library/src/main/java/ui/Main.java
+/Users/malinsundberg/Utvecklingsverktyg/Inlämningsuppgift2/library/src/main/java/utilities/GenderType.java
+/Users/malinsundberg/Utvecklingsverktyg/Inlämningsuppgift2/library/src/main/java/utilities/LoanStatus.java
